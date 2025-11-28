@@ -2018,6 +2018,6 @@ iframe {
   }
   
   .green-filter {
-    filter: brightness(50%) sepia(200%) saturate(100%) hue-rotate(90deg);
+    filter: brightness(20%) sepia(200%) saturate(80%) hue-rotate(90deg);
   }
   
